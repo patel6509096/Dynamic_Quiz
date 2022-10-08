@@ -1,6 +1,6 @@
 /*//update title of tab
 Take Quiz, modify quiz, edit quiz, delete quiz
-use templating for dropdown quiz selection?
+use templating for dropdown quiz selection? Content selection
 */
 var express = require('express');
 var bodyParser = require('body-parser');
